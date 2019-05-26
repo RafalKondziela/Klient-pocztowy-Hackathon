@@ -1,0 +1,7 @@
+mail.smtp.port=465
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+mail.pop3.host="pop3.wp.pl"
+mail.pop3.storeType="pop3"
+mail.pop3.user="zajecia2222@wp.pl"
+mail.pop3.password="haslozajecia1"
